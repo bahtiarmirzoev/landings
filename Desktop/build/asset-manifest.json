@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70a34680.css",
+    "main.js": "/static/js/main.34da09a4.js",
+    "static/media/casino-bg.jpg": "/static/media/casino-bg.f895b7f37cad2ef88465.jpg",
+    "index.html": "/index.html",
+    "main.70a34680.css.map": "/static/css/main.70a34680.css.map",
+    "main.34da09a4.js.map": "/static/js/main.34da09a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70a34680.css",
+    "static/js/main.34da09a4.js"
+  ]
+}
